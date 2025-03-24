@@ -1,0 +1,1 @@
+docker run -p 8501:8501 -e OPENAI_API_KEY=F9yei26LMobzDdVmdKuEcbIlTod3OoTJXAszIUoMdAwYwGWS50bvKODj99JZRqcJA8mUQgR1zlXoHpCORP97ODLAyfagqrob chat-bot
