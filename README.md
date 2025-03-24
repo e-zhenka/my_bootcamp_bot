@@ -25,16 +25,16 @@
 ## 🚀 Установка и запуск
 
 1. Клонируйте репозиторий:
-git clone https://github.com/e-zhenka/my_bootcamp_bot.git
-cd my_bootcamp_bot
+'git clone https://github.com/e-zhenka/my_bootcamp_bot.git'
+'cd my_bootcamp_bot'
 
 3. Создайте файл конфигурации:
-cp .env.example .env
+'cp .env.example .env'
 
 4. Если необходимо настройте переменные окружения в файле .env:
 
 5. Запустите приложение:
-docker-compose up --build
+'docker-compose up --build'
 
 6. Откройте приложение в браузере:
 [  [ http://localhost:7860/ ](http://localhost:8501/) ](http://localhost:8501/)
