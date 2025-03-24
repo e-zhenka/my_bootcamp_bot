@@ -26,6 +26,7 @@
 
 1. Клонируйте репозиторий:
 `git clone https://github.com/e-zhenka/my_bootcamp_bot.git`
+
 `cd my_bootcamp_bot`
 
 3. Создайте файл конфигурации:
